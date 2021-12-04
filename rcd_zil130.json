@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 536870912,
+"dataUrl": "rcd_zil130.data.unityweb",
+"asmCodeUrl": "rcd_zil130.asm.code.unityweb",
+"asmMemoryUrl": "rcd_zil130.asm.memory.unityweb",
+"asmFrameworkUrl": "rcd_zil130.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}
